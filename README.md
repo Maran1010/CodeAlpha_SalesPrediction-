@@ -16,7 +16,6 @@ In this project, I built a Linear Regression model to predict product sales base
 
 The model achieved strong predictive performance and helped me understand regression techniques in machine learning.
 
-GitHub Repository:
-[Paste your GitHub link here]
+
 
 #CodeAlpha #MachineLearning #DataScience #Python #Internship
